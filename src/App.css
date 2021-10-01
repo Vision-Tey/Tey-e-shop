@@ -2,7 +2,7 @@ body{
   background-color: rgb(71, 53, 138);
 }
 .logo{
-  color: crimson;
+  color: rgb(71, 53, 138);
   font-size: 30px;
   padding: 30px;
   /* margin: 10px; */
@@ -38,8 +38,9 @@ body{
   margin: 25px;
   
 }
-.card .h2{
+.heading h2{
   width: 100%;
+  color: #fff;
 }
 .card_image{
   width: 10rem;
